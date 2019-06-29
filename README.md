@@ -30,29 +30,41 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(21).pdf" style="text-decoration:none;">A practical Book for Building Estimation </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(22).pdf" style="text-decoration:none;">Advances in Astrobiology and Biogeophysics: Life in the Universe - Expectations and Constraints</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(23).pdf" style="text-decoration:none;">Origins And Evolution Of Life: An Astrobiological Perspective</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(22).pdf" style="text-decoration:none;">Numerical Analysis Of Shallow Circular Foundations On Sands</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(23).pdf" style="text-decoration:none;">Advanced Methods of Structural Analysis</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(24).pdf" style="text-decoration:none;">Planetary Systems And The Origins Of Life</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(25).pdf" style="text-decoration:none;">Prebiotic Evolution and Astrobiology </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(24).pdf" style="text-decoration:none;">Elements of CIVIL ENGINEERING AND ENGINEERING MECHANICS</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(25).pdf" style="text-decoration:none;">Fluid Mechanics for Civil Engineers </a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(26).pdf" style="text-decoration:none;">Symbiosis: Mechanisms and Model Systems </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(26).pdf" style="text-decoration:none;">CESMM3: Civil Engineering Standard Method of Measurement </a></b></li>
                           
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(27).pdf" style="text-decoration:none;">Talking About Life: Conversations on Astrobiology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(27).pdf" style="text-decoration:none;">Basics Of Concrete Science</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(28).pdf" style="text-decoration:none;">The History and Philosophy of Astrobiology: Perspectives on Extraterrestrial Life and the Human Mind</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(28).pdf" style="text-decoration:none;">Fluid Mechanics Demystified</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(29).pdf" style="text-decoration:none;">The Science of Astrobiology: A Personal View on Learning to Read the Book of Life</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(30).pdf" style="text-decoration:none;">FIRST LIFE: Discovering the Connections between Stars, Cells, and How Life Began</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(29).pdf" style="text-decoration:none;">Hazardous Gases Underground: Applications to Tunnel Engineering</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(30).pdf" style="text-decoration:none;">Groundwork and Civil Engineering</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(31).pdf" style="text-decoration:none;">PLANET FORMATION: Theory, Observations, and Experiments</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(32).pdf" style="text-decoration:none;">The New Astronomy: Opening The Electromagnetic Window
-And Expanding Our View Of Planet Earth</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(33).pdf" style="text-decoration:none;">Advances in Astrobiology and Biogeophysics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(31).pdf" style="text-decoration:none;">Highway Engineering</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(32).pdf" style="text-decoration:none;">Risk and Safety in Civil Engineering</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(33).pdf" style="text-decoration:none;">Civil Engineering Formulas</a></b></li>
  
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(34).pdf" style="text-decoration:none;">Astrobiology: An Evolutionary Approach</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(35).pdf" style="text-decoration:none;">Rare Earth: Why Complex Life is Uncommon in the Universe</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(36).pdf" style="text-decoration:none;">The Search for Extraterrestrial Life</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(37).pdf" style="text-decoration:none;">Caught in the Act of Formation: Amino Acids and the Asymmetry of Life</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(34).pdf" style="text-decoration:none;">Basic Civil Engineering </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(35).pdf" style="text-decoration:none;">Evaluation of Performance and Maximum Length of Continuous Decks in Bridges – Part 1</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(36).pdf" style="text-decoration:none;">The Vision for Civil Engineering in 2025</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(37).pdf" style="text-decoration:none;">IRICEN Journal of Civil Engineering</a></b></li> 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 </ul>

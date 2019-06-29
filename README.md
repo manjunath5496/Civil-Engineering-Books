@@ -56,7 +56,43 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(37).pdf" style="text-decoration:none;">IRICEN Journal of Civil Engineering</a></b></li> 
    
    
-   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(39).pdf" style="text-decoration:none;">Construction Cost Estimating Guide For Civil Works</a></b></li>
+                             <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(40).pdf" style="text-decoration:none;">Ecological Engineering and Civil Engineering Works:
+A Practical Set of Ecological Engineering Principles for Road Infrastructure and Coastal Management</a></b></li>
+                               
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(43).pdf" style="text-decoration:none;">The Safety Behaviours: Human Factors Workbook for Engineers </a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(44).pdf" style="text-decoration:none;">Civil Engineering Body of Knowledge for the 21st Century</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(45).pdf" style="text-decoration:none;">Objective Civil Engineering</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(46).pdf" style="text-decoration:none;">How to Select and Work Effectively with Consulting Engineers: Getting the Best Project</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(47).pdf" style="text-decoration:none;">Corps Of Engineers Civil Works Program Management Execution Of The Annual Civil Works Program</a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(48).rar" style="text-decoration:none;">Civil Engineer's Handbook of Professional Practice</a></b></li>  
+        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(49).pdf" style="text-decoration:none;">An Introduction to EXCEL for Civil Engineers</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(50).pdf" style="text-decoration:none;">A Guide To The Preparation Of Civil Engineering Drawings</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(51).pdf" style="text-decoration:none;">FRP Composites in Civil Engineering – CICE 2004</a></b></li>  
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(52).pdf" style="text-decoration:none;">Introduction to Civil Engineering Systems </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(53).pdf" style="text-decoration:none;">Matrix Analysis of
+Structural Dynamics</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(54).pdf" style="text-decoration:none;">Structural Detailing: For Architecture, Building and Civil Engineering</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(55).pdf" style="text-decoration:none;">New Aspects of Quantity Surveying Practice</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(56).rar" style="text-decoration:none;">Structural analysis  </a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(57).pdf" style="text-decoration:none;">Strength of Materials and Structures </a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(58).pdf" style="text-decoration:none;">Strength of Materials </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(59).pdf" style="text-decoration:none;">Surveying Instruments and Technology </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(60).pdf" style="text-decoration:none;"> Design of Steel Structures</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(61).rar" style="text-decoration:none;">Stability and Ductility of Steel Structures</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(62).pdf" style="text-decoration:none;">Geotechnical Engineering: Principles and Practices of Soil Mechanics and Foundation Engineering</a></b></li> 
    
    
    

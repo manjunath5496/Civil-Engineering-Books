@@ -1,7 +1,6 @@
 <ul>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(1).pdf" style="text-decoration:none;">Adaptation to Life at High Salt Concentrations in Archaea, Bacteria, and Eukarya </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(2).pdf" style="text-decoration:none;">An Astrobiology Strategy for the Exploration of Mars</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(3).pdf" style="text-decoration:none;">Astrobiological Neurosystems: Rise and Fall of Intelligent Life Forms in the Universe</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(1).pdf" style="text-decoration:none;">Managing and Leading: 52 Lessons Learned for Engineers</a></b></li>
+                             <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(3).pdf" style="text-decoration:none;">Engineering Rock Mass Classifications: A Complete Manual for Engineers and Geologists in Mining, Civil, and Petroleum Engineering</a></b></li>
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(4).pdf" style="text-decoration:none;">Astrobiology of Earth</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(5).pdf" style="text-decoration:none;">Comets and the Origin of Life </a></b></li>
